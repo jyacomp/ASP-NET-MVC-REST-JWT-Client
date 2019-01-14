@@ -1,2 +1,2 @@
-# ASP-NET-API-REST-Client-JWT
+# ASP-NET-MVC-REST-Client-JWT
 ASP.Net 4.6.2
